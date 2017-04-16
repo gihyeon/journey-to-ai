@@ -3,6 +3,10 @@ This is a complete study plan to become an expert in AI, ML, and DL.
 
 # Fundamentals
 
-# AI and ML in general
+# Artificial Intelligence
 
-# Advanced Topics in Machine Learning
+# Machine Learning
+
+# Deep Learning
+
+# Advanced Topics in Deep Learning
