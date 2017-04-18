@@ -12,9 +12,9 @@ This is a comprehensive list of resources for studying Artificial Intelligence.
 ## Fundamentals
 ### Computer Science
 * Computer Science
-  * [Introduction to Computer Science by Havard](https://cs50.harvard.edu/)
-  * Introduction to Computer Science and Programming Using Python by MIT
-  * Introduction to Computational Thinking and Data Science by MIT
+ * <a href="https://cs50.harvard.edu/" target="_blank">Introduction to Computer Science by Havard</a>
+ * Introduction to Computer Science and Programming Using Python by MIT
+ * Introduction to Computational Thinking and Data Science by MIT
 ### Mathematics
 ### Statistics
 ### Programming
