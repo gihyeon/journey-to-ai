@@ -1,13 +1,5 @@
-# Journey to Artificial Intelligence, Machine Learning, and Deep Learning
-This is a complete study plan to become an expert in AI, ML, and DL.
-
-## Fundamentals
-### Mathematics
-### Statistics
-### Python Programming
-### Computer Science
-### Algorithms and Data Structures
-### Data Analytics/Science
+# Journey to Artificial Intelligence
+This is a comprehensive list of resources for studying Artificial Intelligence.
 
 ## Artificial Intelligence
 
@@ -16,3 +8,15 @@ This is a complete study plan to become an expert in AI, ML, and DL.
 ## Deep Learning
 
 ## Advanced Topics in Deep Learning
+
+## Fundamentals
+### Computer Science
+* Computer Science
+  * [Introduction to Computer Science by Havard](https://cs50.harvard.edu/)
+  * Introduction to Computer Science and Programming Using Python by MIT
+  * Introduction to Computational Thinking and Data Science by MIT
+### Mathematics
+### Statistics
+### Programming
+### Algorithms and Data Structures
+### Data Analytics/Science
