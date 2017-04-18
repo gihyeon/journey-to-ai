@@ -1,6 +1,6 @@
 # Journey to Artificial Intelligence
 This is a comprehensive list of resources for studying Artificial Intelligence.
-
+---
 ## Artificial Intelligence
 
 ## Machine Learning
@@ -8,7 +8,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence.
 ## Deep Learning
 
 ## Advanced Topics in Deep Learning
-
+---
 ## Fundamentals
 ### Computer Science
 * [Introduction to Computer Science, Havard CS50](https://cs50.harvard.edu/)
