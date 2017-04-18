@@ -1,5 +1,7 @@
 # Journey to Artificial Intelligence
 This is a comprehensive list of resources for studying Artificial Intelligence.
+
+
 ---
 ## Artificial Intelligence
 
