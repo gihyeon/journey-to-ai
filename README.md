@@ -16,7 +16,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
 ## Fundamentals
 
 ### Computer Science
-- Introduction to Computer Science, Harvard CS50 [Course Home](https://cs50.harvard.edu/) [edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- Introduction to Computer Science, Harvard CS50 [`Course Home`](https://cs50.harvard.edu/) [`edX`](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [Introduction to Computing Principles, Stanford CS 101](http://online.stanford.edu/course/computer-science-101-self-paced "To the site")
 - [Introduction to Computer Science and Programming Using Python, MITx 6.00.1x](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10 "To the site")
 - [Introduction to Computational Thinking and Data Science, MITx 6.00.2x](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5 "To the site")
