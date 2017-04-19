@@ -29,7 +29,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
       - [Calculus One, Coursera](https://www.coursera.org/learn/calculus1)
       - [Calculus Two: Sequences and Series, Coursera](https://www.coursera.org/learn/advanced-calculus)
     - Books
-      - Essential Calculus: Early Transcendentals by James Stewart [`Amazon`](https://www.amazon.com/Essential-Calculus-Transcendentals-James-Stewart/dp/1133112285/ref=sr_1_4?ie=UTF8&qid=1492632448&sr=8-4&keywords=Essential+Calculus+by+James+Stewart)
+      - Essential Calculus: Early Transcendentals by James Stewart      [`Amazon`](https://www.amazon.com/Essential-Calculus-Transcendentals-James-Stewart/dp/1133112285/ref=sr_1_4?ie=UTF8&qid=1492632448&sr=8-4&keywords=Essential+Calculus+by+James+Stewart)
   - Linear Algebra
     - Courses
       - [Linear Algebra, Kahn Academy](https://www.khanacademy.org/math/linear-algebra)
