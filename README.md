@@ -54,11 +54,12 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
   - Probability for Computer Scientists, Stanford CS109 :free: [`Website`](http://web.stanford.edu/class/cs109/)
     - [Lecture Videos, Spring 2016](http://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html)
   - Statistical Learning :free: [`Lagunita`](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
-    - Textbook:[An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+    - Textbook: An Introduction to Statistical Learning with Applications in R
 - Books
   - Think Stats: Probability and Statistics for python programmers by Allen B. Downey :free: [`Website`](http://greenteapress.com/wp/think-stats-2e/)
   - All of Statistics: A Concise Course in Statistical Inference by Larry A. Wasserman [`Amazon`](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/0387402721/ref=sr_1_1?ie=UTF8&qid=1492678465&sr=8-1&keywords=All+of+Statistics%3A+A+Concise+Course+in+Statistical+Inference)
   - The Nature of Statistical Learning Theory (Information Science and Statistics) by Vladimir Vapnik [`Amazon`](https://www.amazon.com/Statistical-Learning-Information-Science-Statistics-ebook/dp/B001CU8WL6/ref=sr_1_1?ie=UTF8&qid=1492678727&sr=8-1&keywords=The+Nature+of+Statistical+Learning+Theory+%28Information+Science+and+Statistics%29)
+  - An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani :free: [`Website`](http://www-bcf.usc.edu/~gareth/ISL/)
   - The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie :free: [`Website`](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
   - Statistical Learning with Sparsity: The Lasso and Generalizations by Martin Wainwright, Robert Tibshirani, and Trevor Hastie :free: [`Website`](http://web.stanford.edu/~hastie/StatLearnSparsity/)
 
