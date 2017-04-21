@@ -38,7 +38,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
     - Books
       - Coding the Matrix: Linear Algebra through Computer Science Applications, Philip N. Klein
         - [Lecture Videos and Slides](http://cs.brown.edu/courses/cs053/current/index.htm)
-  - Math for Computer Science
+  - Math for CS
     - Courses
       - Mathematical Foundations of Computing, Stanford CS103 [[Web]](http://web.stanford.edu/class/cs103/)
       - Mathematics for Computer Science, MIT 6.042J [[Web]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
@@ -65,6 +65,12 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
 
 ### Programming
 - Python
+  - Courses / Tutorials
+    - Programming Foundations with Python [[Udacity]](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+    - [pythonspot.com](https://pythonspot.com/)
+    - [pythonprogramming.net](https://pythonprogramming.net)
+    - Google’s Python Class [[Web]](https://developers.google.com/edu/python/)
+    - Official Python Tutorial [[Web]](https://docs.python.org/3/)
   - Introductory Books
     - Learn Python the Hard Way, 4th Ed., Zed A. Shaw [[Web]](https://learnpythonthehardway.org/python3/)
     - A Byte of Python, Swaroop C H [[Web]](https://python.swaroopch.com/)
@@ -79,12 +85,6 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
     - Effective Python: 59 Specific Ways to Write Better Python, Brett Slatkin
     - Python 3 Object-oriented Programming, Dusty Phillips
     - The Hitchhiker’s Guide to Python: Best Practices for Development, Reitz and Schlusser
-  - Courses / Tutorials
-    - Programming Foundations with Python [[Udacity]](https://www.udacity.com/course/programming-foundations-with-python--ud036)
-    - [pythonspot.com](https://pythonspot.com/)
-    - [pythonprogramming.net](https://pythonprogramming.net)
-    - Google’s Python Class [[Web]](https://developers.google.com/edu/python/)
-    - Official Python Tutorial [[Web]](https://docs.python.org/3/)
 - C++
   - https://www.programiz.com/cpp-programming
   - The C++ Programming Language
