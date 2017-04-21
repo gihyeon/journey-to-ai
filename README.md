@@ -86,7 +86,11 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
     - Google’s Python Class [[Web]](https://developers.google.com/edu/python/)
     - Official Python Tutorial [[Web]](https://docs.python.org/3/)
 - C++
-- Practice Coding
+  - https://www.programiz.com/cpp-programming
+  - The C++ Programming Language
+  - Programming: Principles and Practice Using C++
+  - C++ Primer Plus (6th Edition)
+  - Effective Modern C++
 
 ### Algorithms and Data Structures
 
