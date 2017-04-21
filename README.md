@@ -29,7 +29,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
       - Calculus One [[Coursera]](https://www.coursera.org/learn/calculus1)
       - Calculus Two: Sequences and Series [[Coursera]](https://www.coursera.org/learn/advanced-calculus)
     - Books
-      - Essential Calculus: Early Transcendentals, James Stewart
+      - Essential Calculus: Early Transcendentals, 2nd Ed., James Stewart
   - Linear Algebra
     - Courses
       - Linear Algebra [[Kahn Academy]](https://www.khanacademy.org/math/linear-algebra)
@@ -44,7 +44,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
       - Mathematics for Computer Science, MIT 6.042J [[Web]](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
         - [Class Materials, Spring 2017](https://learning-modules.mit.edu/materials/index.html?uuid=/course/6/sp17/6.042#materials)
     - Books
-      - Introduction to the Theory of Computation, Michael Sipser
+      - Introduction to the Theory of Computation, 3rd Ed., Michael Sipser
       - Concrete Mathematics: A Foundation for Computer Science, 2nd Ed., Graham et al.
 
 ### Statistics
@@ -56,11 +56,11 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
   - Statistical Learning [[Lagunita]](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
     - Textbook: An Introduction to Statistical Learning with Applications in R
 - Books
-  - Think Stats: Probability and Statistics for python programmers, Allen B. Downey [[Web]](http://greenteapress.com/wp/think-stats-2e/)
+  - Think Stats: Probability and Statistics for python programmers, 2nd Ed., Allen B. Downey [[Web]](http://greenteapress.com/wp/think-stats-2e/)
   - All of Statistics: A Concise Course in Statistical Inference, Larry A. Wasserman
-  - The Nature of Statistical Learning Theory (Information Science and Statistics), Vladimir Vapnik
+  - The Nature of Statistical Learning Theory (Information Science and Statistics), 2nd Ed., Vladimir Vapnik
   - An Introduction to Statistical Learning with Applications in R, James et al. [[Web]](http://www-bcf.usc.edu/~gareth/ISL/)
-  - The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Friedman et al. [[Web]](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+  - The Elements of Statistical Learning: Data Mining, Inference, and Prediction, 2nd Ed., Friedman et al. [[Web]](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
   - Statistical Learning with Sparsity: The Lasso and Generalizations, Wainwright et al. [[Web]](http://web.stanford.edu/~hastie/StatLearnSparsity/)
 
 ### Programming
@@ -77,20 +77,28 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
     - Dive into Python 3, Mark Pilgrim [[Web]](http://www.diveintopython3.net/)
     - Automate the Boring Stuff with Python Programming, Al Sweigart [[Web]](https://automatetheboringstuff.com/)
     - Python Crash Course: A Hands-On, Project-Based Introduction to Programming, Eric Matthes
-    - Think Python: How to Think Like a Computer Scientist, Allen B. Downey
+    - Think Python: How to Think Like a Computer Scientist, 2nd Ed., Allen B. Downey
     - Introducing Python: Modern Computing in Simple Packages, Bill Lubanovic
     - Python Programming: An Introduction to Computer Science, 3rd Ed., John Zelle
   - Advanced Books
     - Fluent Python: Clear, Concise, and Effective Programming, Luciano Ramalho
     - Effective Python: 59 Specific Ways to Write Better Python, Brett Slatkin
-    - Python 3 Object-oriented Programming, Dusty Phillips
+    - Python 3 Object-oriented Programming, 2nd Ed., Dusty Phillips
     - The Hitchhiker’s Guide to Python: Best Practices for Development, Reitz and Schlusser
 - C++
-  - https://www.programiz.com/cpp-programming
-  - The C++ Programming Language
-  - Programming: Principles and Practice Using C++
-  - C++ Primer Plus (6th Edition)
-  - Effective Modern C++
+  - [Programiz](https://www.programiz.com/cpp-programming)
+  - The C++ Programming Language, 4th Ed., Bjarne Stroustrup
+  - Programming: Principles and Practice Using C++, 2nd Ed.,Bjarne Stroustrup
+  - C++ Primer Plus, 6th Ed., Stephen Prata
+  - Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14, Scott Meyers
+  - C++ Coding Standards: 101 Rules, Guidelines, and Best Practices, Sutter and Alexandrescu
+
+- Practice
+  - https://projecteuler.net/
+  - https://www.codechef.com/
+  - https://www.careercup.com/
+  - https://www.hackerearth.com/
+  - https://www.hackerrank.com/
 
 ### Algorithms and Data Structures
 
