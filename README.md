@@ -45,7 +45,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
         - [Class Materials, Spring 2017](https://learning-modules.mit.edu/materials/index.html?uuid=/course/6/sp17/6.042#materials)
     - Books
       - Introduction to the Theory of Computation, Michael Sipser
-      - Concrete Mathematics: A Foundation for Computer Science, 2nd Ed, Graham et al.
+      - Concrete Mathematics: A Foundation for Computer Science, 2nd Ed., Graham et al.
 
 ### Statistics
 - Courses
@@ -66,25 +66,25 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
 ### Programming
 - Python
   - Introductory Books
-    - Learn Python the Hard Way, Zed A. Shaw [[Web]](https://learnpythonthehardway.org/python3/)
+    - Learn Python the Hard Way, 4th Ed., Zed A. Shaw [[Web]](https://learnpythonthehardway.org/python3/)
     - A Byte of Python, Swaroop C H [[Web]](https://python.swaroopch.com/)
     - Dive into Python 3, Mark Pilgrim [[Web]](http://www.diveintopython3.net/)
     - Automate the Boring Stuff with Python Programming, Al Sweigart [[Web]](https://automatetheboringstuff.com/)
     - Python Crash Course: A Hands-On, Project-Based Introduction to Programming, Eric Matthes
     - Think Python: How to Think Like a Computer Scientist, Allen B. Downey
     - Introducing Python: Modern Computing in Simple Packages, Bill Lubanovic
-    - Python Programming: An Introduction to Computer Science, John Zelle http://mcsp.wartburg.edu/zelle/python/
-  - Intermediate Books
+    - Python Programming: An Introduction to Computer Science, 3rd Ed., John Zelle
+  - Advanced Books
     - Fluent Python: Clear, Concise, and Effective Programming, Luciano Ramalho
     - Effective Python: 59 Specific Ways to Write Better Python, Brett Slatkin
     - Python 3 Object-oriented Programming, Dusty Phillips
     - The Hitchhiker’s Guide to Python: Best Practices for Development, Reitz and Schlusser
   - Courses / Tutorials
     - Programming Foundations with Python [[Udacity]](https://www.udacity.com/course/programming-foundations-with-python--ud036)
-    - https://pythonspot.com/
-    - https://pythonprogramming.net
+    - [pythonspot.com](https://pythonspot.com/)
+    - [pythonprogramming.net](https://pythonprogramming.net)
     - Google’s Python Class [[Web]](https://developers.google.com/edu/python/)
-    - Official Python Tutorial [[Web]] https://docs.python.org/3/
+    - Official Python Tutorial [[Web]](https://docs.python.org/3/)
 - C++
 - Practice Coding
 
