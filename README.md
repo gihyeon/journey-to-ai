@@ -86,20 +86,34 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
     - Python 3 Object-oriented Programming, 2nd Ed., Dusty Phillips
     - The Hitchhiker’s Guide to Python: Best Practices for Development, Reitz and Schlusser
 - C++
-  - [Programiz](https://www.programiz.com/cpp-programming)
-  - The C++ Programming Language, 4th Ed., Bjarne Stroustrup
-  - Programming: Principles and Practice Using C++, 2nd Ed.,Bjarne Stroustrup
-  - C++ Primer Plus, 6th Ed., Stephen Prata
-  - Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14, Scott Meyers
-  - C++ Coding Standards: 101 Rules, Guidelines, and Best Practices, Sutter and Alexandrescu
+  - Courses
+    - Learn C++ Programming, Programiz [[Web]](https://www.programiz.com/cpp-programming)
+    - C++ Tutorial for Complete Beginners [[Udemy]](https://www.udemy.com/free-learn-c-tutorial-beginners/)
+    - Pointers in C/C++ [[YouTube]](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+  - Books
+    - The C++ Programming Language, 4th Ed., Bjarne Stroustrup
+    - Programming: Principles and Practice Using C++, 2nd Ed.,Bjarne Stroustrup
+    - C++ Primer Plus, 6th Ed., Stephen Prata
+    - Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14, Scott Meyers
+    - C++ Coding Standards: 101 Rules, Guidelines, and Best Practices, Sutter and Alexandrescu
 
 - Practice
-  - https://projecteuler.net/
-  - https://www.codechef.com/
-  - https://www.careercup.com/
-  - https://www.hackerearth.com/
-  - https://www.hackerrank.com/
+  - [ProjectEuler](https://projecteuler.net/)
+  - [CodeChef](https://www.codechef.com/)
+  - [CareerCup](https://www.careercup.com/)
+  - [HackerEarth](https://www.hackerearth.com/)
+  - [HackerRank](https://www.hackerrank.com/)
 
 ### Algorithms and Data Structures
+  - Courses
+    - Data Structures, My Code School [[YouTube]](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+    - Introduction to Algorithms, MIT 6.006 [[Web]](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+    - Design and Analysis of Algorithms, MIT 6.046J [[Web]](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+    - Advanced Algorithms, MIT 6.854 [[Web]](http://people.csail.mit.edu/moitra/854.html)
+    - Advanced Data Structures, MIT 6.851 [[Web]](https://courses.csail.mit.edu/6.851/spring14/)
+  - Books
+    - Problem Solving with Algorithms and Data Structures using Python [[Web]](http://interactivepython.org/courselib/static/pythonds/index.html)
+    - Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles, 5th Ed., Narasimha Karumanchi
+    - Introduction to Algorithms, 3rd Ed., Cormen et al.
 
 ### Data Science
