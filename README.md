@@ -107,13 +107,13 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
 ### Algorithms and Data Structures
   - Courses
     - Data Structures, My Code School [[YouTube]](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-    - Introduction to Algorithms, MIT 6.006 [[Web]](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+    - Introduction to Algorithms, MIT 6.006 [[Web]](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) [[Course Home]](https://courses.csail.mit.edu/6.006/fall11/)
     - Design and Analysis of Algorithms, MIT 6.046J [[Web]](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
     - Advanced Algorithms, MIT 6.854 [[Web]](http://people.csail.mit.edu/moitra/854.html)
     - Advanced Data Structures, MIT 6.851 [[Web]](https://courses.csail.mit.edu/6.851/spring14/)
   - Books
     - Problem Solving with Algorithms and Data Structures using Python [[Web]](http://interactivepython.org/courselib/static/pythonds/index.html)
     - Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles, 5th Ed., Narasimha Karumanchi
-    - Introduction to Algorithms, 3rd Ed., Cormen et al.
+    - Introduction to Algorithms, 3rd Ed., Cormen et al. (a.k.a. CLRS)
 
 ### Data Science
