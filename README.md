@@ -118,7 +118,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
 
 ### Data Science
 - Course
-  - Intro to Data Analysis [[Udacity]](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+  - Intro to Data Analysis: Data Analysis Using NumPy and Pandas [[Udacity]](https://www.udacity.com/course/intro-to-data-analysis--ud170)
   - Applied Data Science with Python Specialization [[Coursera]](https://www.coursera.org/specializations/data-science-python)
   - Data Science, Harvard CS109 [[GitHub]](http://cs109.github.io/2015/)
 - Book
