@@ -53,6 +53,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
   - Probability, Harvard STAT110 [[Web]](http://projects.iq.harvard.edu/stat110)
   - Probability for Computer Scientists, Stanford CS109 [[Web]](http://web.stanford.edu/class/cs109/)
     - [Lecture Videos, Spring 2016](http://web.stanford.edu/class/archive/cs/cs109/cs109.1166//handouts/overview.html)
+  - Bayesian Statistics [[Coursera]](https://www.coursera.org/learn/bayesian)
   - Statistical Learning [[Lagunita]](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
     - Textbook: An Introduction to Statistical Learning with Applications in R
 - Books
