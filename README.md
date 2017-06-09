@@ -66,7 +66,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
 
 ### Programming
 - Python
-  - Courses / Tutorials
+  - Courses/Tutorials
     - Programming Foundations with Python [[Udacity]](https://www.udacity.com/course/programming-foundations-with-python--ud036)
     - [pythonspot.com](https://pythonspot.com/)
     - [pythonprogramming.net](https://pythonprogramming.net)
@@ -78,14 +78,15 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
     - Dive into Python 3, Mark Pilgrim [[Web]](http://www.diveintopython3.net/)
     - Automate the Boring Stuff with Python Programming, Al Sweigart [[Web]](https://automatetheboringstuff.com/)
     - Python Crash Course: A Hands-On, Project-Based Introduction to Programming, Eric Matthes
-    - Think Python: How to Think Like a Computer Scientist, 2nd Ed., Allen B. Downey
+    - Think Python: How to Think Like a Computer Scientist, 2nd Ed., Allen B. Downey [[Web]](http://greenteapress.com/wp/think-python-2e/)
     - Introducing Python: Modern Computing in Simple Packages, Bill Lubanovic
     - Python Programming: An Introduction to Computer Science, 3rd Ed., John Zelle
+    - Intermediate Python, Muhammad Yasoob Ullah Khalid [[Web]](http://book.pythontips.com/)
   - Advanced Books
     - Fluent Python: Clear, Concise, and Effective Programming, Luciano Ramalho
     - Effective Python: 59 Specific Ways to Write Better Python, Brett Slatkin
     - Python 3 Object-oriented Programming, 2nd Ed., Dusty Phillips
-    - The Hitchhiker’s Guide to Python: Best Practices for Development, Reitz and Schlusser
+    - The Hitchhiker’s Guide to Python: Best Practices for Development, Reitz and Schlusser [[Web]](http://docs.python-guide.org/)
 - C++
   - Courses
     - Learn C++ Programming, Programiz [[Web]](https://www.programiz.com/cpp-programming)
