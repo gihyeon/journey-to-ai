@@ -101,7 +101,6 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
 
 - Practice
   - [ProjectEuler](https://projecteuler.net/)
-  - [CodeChef](https://www.codechef.com/)
   - [CareerCup](https://www.careercup.com/)
   - [HackerEarth](https://www.hackerearth.com/)
   - [HackerRank](https://www.hackerrank.com/)
@@ -128,9 +127,16 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
   - Data Science from Scratch: First Principles with Python, Joel Grus [[GitHub]](https://github.com/joelgrus/data-science-from-scratch)
   - Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Python, Wes McKinney
   - Python Data Science Handbook: Essential Tools for Working with Data, Jake VanderPlas [[GitHub]](https://github.com/jakevdp/PythonDataScienceHandbook)
-- Other resources
-  - [Jupyter (IPython) Notebook](http://jupyter.org/)
-  - [Numpy](http://www.numpy.org/)
-  - [Pandas](http://pandas.pydata.org/)
-  - [Matplotlib](https://matplotlib.org/)
-  - [Scikit-learn](http://scikit-learn.org/)
+
+### Tools
+- [Jupyter (IPython) Notebook](http://jupyter.org/)
+- [NumPy](http://www.numpy.org/)
+  - Quickstart tutorial [[Web]](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+  - Python Numpy Tutorial [[Web]](http://cs231n.github.io/python-numpy-tutorial/#numpy)
+  - Visual NumPy Introduction [[Web]](https://github.com/rougier/numpy-tutorial#the-game-of-life)
+  - NumPy Tutorial: Data analysis with Python [[Web]](https://www.dataquest.io/blog/numpy-tutorial-python/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
+  - Practical Tutorial on Data Manipulation with Numpy and Pandas in Python [[Web]](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
+- [Pandas](http://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Scikit-learn](http://scikit-learn.org/)
+- [StatsModels](http://www.statsmodels.org/stable/index.html)
