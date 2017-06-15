@@ -124,8 +124,8 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
   - Applied Data Science with Python Specialization [[Coursera]](https://www.coursera.org/specializations/data-science-python)
   - Data Science, Harvard CS109 [[GitHub]](http://cs109.github.io/2015/)
 - Books
-  - Data Science from Scratch: First Principles with Python, Joel Grus [[GitHub]](https://github.com/joelgrus/data-science-from-scratch)
   - Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Python, Wes McKinney
+  - Data Science from Scratch: First Principles with Python, Joel Grus [[GitHub]](https://github.com/joelgrus/data-science-from-scratch)
   - Python Data Science Handbook: Essential Tools for Working with Data, Jake VanderPlas [[GitHub]](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Tools
