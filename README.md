@@ -73,7 +73,7 @@ This is a comprehensive list of resources for studying Artificial Intelligence, 
     - Google’s Python Class [[Web]](https://developers.google.com/edu/python/)
     - Official Python Tutorial [[Web]](https://docs.python.org/3/)
   - Introductory Books
-    - Learn Python the Hard Way, 4th Ed., Zed A. Shaw [[Web]](https://learnpythonthehardway.org/python3/)
+    - Learn Python 3 the Hard Way, Zed A. Shaw [[Web]](https://learnpythonthehardway.org/python3/)
     - A Byte of Python, Swaroop C H [[Web]](https://python.swaroopch.com/)
     - Dive into Python 3, Mark Pilgrim [[Web]](http://www.diveintopython3.net/)
     - Automate the Boring Stuff with Python Programming, Al Sweigart [[Web]](https://automatetheboringstuff.com/)
